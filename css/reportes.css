@@ -1,0 +1,15 @@
+body {
+    background: #f4f6f9;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#reporteTabla {
+    margin-top: 20px;
+}
+.btn-danger, .btn-success {
+    border-radius: 20px;
+    padding: 8px 25px;
+}
+.table th {
+    background: #343a40;
+    color: white;
+}

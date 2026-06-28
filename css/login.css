@@ -1,0 +1,28 @@
+body {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.login-container {
+    margin-top: -50px;
+}
+.card {
+    border-radius: 15px;
+    border: none;
+}
+.card-header {
+    border-radius: 15px 15px 0 0;
+    background: linear-gradient(45deg, #667eea, #764ba2);
+}
+.btn-primary {
+    background: #667eea;
+    border: none;
+    transition: 0.3s;
+}
+.btn-primary:hover {
+    background: #5a6fd6;
+    transform: scale(1.02);
+}

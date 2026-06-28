@@ -1,0 +1,22 @@
+body {
+    background: #eef1f5;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.navbar {
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+.card {
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+.btn-primary {
+    background: #28a745;
+    border: none;
+}
+.btn-primary:hover {
+    background: #218838;
+}
+.table th {
+    background: #28a745;
+    color: white;
+}

@@ -1,0 +1,26 @@
+body {
+    background: #f4f6f9;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.navbar {
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+.card {
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    transition: transform 0.2s;
+}
+.card:hover {
+    transform: translateY(-5px);
+}
+.card h2 {
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+.btn {
+    border-radius: 20px;
+}
+.table th {
+    background: #343a40;
+    color: white;
+}
